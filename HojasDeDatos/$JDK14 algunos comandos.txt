@@ -1,0 +1,5 @@
+Escribimos 'sout' + tab para imprimir linea.
+Escribimos 'soutv' + tab para imprimir la ultima variable junto al nombre de la variable.
+Ctrl + Space = Observar las variables definidas del programa
+Ctrl + click = te lleva a donde declaraste la variable
+Alt + Shift + F = Da formato al documento
