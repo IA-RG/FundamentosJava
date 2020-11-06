@@ -31,7 +31,7 @@ Incluyo a su vez un breve temario partiendo desde el ‘HolaMundoJava’ hasta f
 22. SwitchCalculoDeEstacion
 23. SistemaDeCalificacionesS5T6
 24. CicloWhile
-25. 
+25. CicloDoWhile
 26. 
 27. 
 28. 
