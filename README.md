@@ -28,3 +28,12 @@ Incluyo a su vez un breve temario partiendo desde el ‘HolaMundoJava’ hasta f
 19. PrecedenciaDeOperadores
 20. SentenciaIfElse
 21. SentenciaSwitch
+22. SwitchCalculoDeEstacion
+23. SistemaDeCalificacionesS5T6
+24. CicloWhile
+25. 
+26. 
+27. 
+28. 
+29. 
+30. 
